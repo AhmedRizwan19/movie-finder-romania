@@ -14,11 +14,12 @@ Simple navigation for movies. Example : "romania" in search bar.
 - Usage of position: static; in CSS
 - Using CSS variables
 
-## Screenshots
-
-![App Screenshot](https://snipboard.io/lPTUEG.jpg)
-
 ## Demo 
 
 🔗 [Live Demo](https://raw.githack.com/AhmedRizwan19/movie-finder-romania/main/index.html)
+
+
+## Screenshots
+
+![App Screenshot](https://snipboard.io/lPTUEG.jpg)
 
