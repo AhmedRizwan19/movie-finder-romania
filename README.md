@@ -20,4 +20,5 @@ Simple navigation for movies. Example : "romania" in search bar.
 
 ## Demo 
 
-https://raw.githack.com/AhmedRizwan19/movie-finder-romania/main/index.html
+🔗 Live Demo](https://raw.githack.com/AhmedRizwan19/movie-finder-romania/main/index.html
+
