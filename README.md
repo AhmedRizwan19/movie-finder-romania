@@ -18,3 +18,6 @@ Simple navigation for movies. Example : "romania" in search bar.
 
 ![App Screenshot](https://snipboard.io/lPTUEG.jpg)
 
+## Demo 
+
+https://raw.githack.com/AhmedRizwan19/movie-finder-romania/main/index.html
